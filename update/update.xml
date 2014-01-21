@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<UpdateInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AppName>XP订票助手</AppName>
+  <AppVersion>2.0.14.0</AppVersion>
+  <PublishUrl>http://www.xphelper.com/download.html</PublishUrl>
+  <FileExecuteBefore />
+  <ExecuteArgumentBefore />
+  <FileExecuteAfter>XPHelper.exe</FileExecuteAfter>
+  <ExecuteArgumentAfter>-testcdn</ExecuteArgumentAfter>
+  <ExecuteTimeout>0</ExecuteTimeout>
+  <Desc>  - 增加免输入验证码功能（随时可能失效）
+  - 修改悠悠云打码
+  - 增加若干个CDN服务器IP</Desc>
+  <Package>5CCC4B2E6874D16D728192EF71F819DC.zip</Package>
+  <MD5>F395BF8146E341F3EF8CE2CB43CCCE3F</MD5>
+  <DeleteFileLimits />
+  <DeleteMethod>None</DeleteMethod>
+  <RequiredMinVersion>2.0.12.0</RequiredMinVersion>
+  <PackageSize>459244</PackageSize>
+  <PackagePassword>xphelper</PackagePassword>
+  <ForceUpdate>false</ForceUpdate>
+  <ForceKillProcesses>false</ForceKillProcesses>
+  <Packages />
+  <HideBeforeExecuteWindow>false</HideBeforeExecuteWindow>
+  <HideAfterExecuteWindow>false</HideAfterExecuteWindow>
+  <WebUpdateNote />
+</UpdateInfo>
